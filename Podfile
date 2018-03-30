@@ -1,0 +1,16 @@
+target 'CastleIdeal' do
+pod 'AFNetworking'
+pod 'SDWebImage'
+pod 'MJRefresh'
+pod 'MJExtension'
+pod 'SVProgressHUD', :git => 'https://github.com/SVProgressHUD/SVProgressHUD.git'
+pod 'Masonry'
+pod 'YYModel'
+pod 'NJKWebViewProgress'
+pod 'DZNEmptyDataSet'
+pod 'IQKeyboardManager'
+pod 'TZImagePickerController'
+pod 'MMPopupView'
+pod 'INTULocationManager'
+pod 'Reachability'
+end
